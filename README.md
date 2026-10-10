@@ -20,8 +20,8 @@ Bu dersin amacı; öğrencilere bilgi varlıklarının gizliliğini, bütünlü�
 
 | Hafta | Konu Başlığı | İlgili Materyal / Notlar | Görev / Ödev |
 | :---: | :--- | :--- | :--- |
-| **1** | Giriş ve Temel Güvenlik Kavramları ve CIA Üçgeni | [Hafta 1 Notları](ders-notu/Güvenli Yazılım Geliştirme (Sunum 1).pdf) | - |
-| **2** | Kriptografinin Temelleri ve Simetrik Şifreleme | [Hafta 2 Notları](ders-notu/Güvenli Yazılım Geliştirme (Sunum 1).pdf) | - |
+| **1** | Giriş ve Temel Güvenlik Kavramları ve CIA Üçgeni | [Hafta 1 Notları](ders-notu/guvenli-yazilim-gelistirme-sunum-1.pdf) | - |
+| **2** | Kriptografinin Temelleri ve Simetrik Şifreleme | [Hafta 2 Notları](ders-notu/guvenli-yazilim-gelistirme-sunum-2.pdf) | - |
 | **3** | Yapıcı Metotlar (`__init__`) ve Sınıf Nitelikleri | Belirlenmedi | - |
 | **4** | Kapsülleme (Encapsulation) ve Erişim Belirleyiciler | Belirlenmedi | - |
 | **5** | Kalıtım (Inheritance) - I | Belirlenmedi | - |
